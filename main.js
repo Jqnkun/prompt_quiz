@@ -1,0 +1,1 @@
+let maxinum = prompt('数字を入力してください');
